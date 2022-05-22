@@ -1,2 +1,4 @@
-# riseSetCalc
-Rise set time calculator/grapher for star
+William Mears
+
+seSetCalc
+Rise set time calculator/grapher for stars
